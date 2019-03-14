@@ -1,2 +1,16 @@
-# TaoBao
-使用selenium爬取商品信息 
+## TaobaoProduct
+
+Selenium + Chrome抓取淘宝物品信息
+
+
+
+
+
+
+
+
+
+
+
+
+
